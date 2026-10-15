@@ -11,3 +11,5 @@ Sejauh ini, INTRIVIA 2026 menjadi pengalaman yang seru dan berkesan karena aku b
 
 ## Kesan Pesan Cluster 14 Sejauh Ini
 Sejauh ini, aku senang bisa menjadi bagian dari Cluster 14 karena bisa mengenal teman-teman baru dan saling berbagi pengalaman selama mengikuti rangkaian kegiatan INTRIVIA. Walaupun kami masih dalam proses mengenal satu sama lain, aku berharap Cluster 14 bisa terus menjadi cluster yang kompak, saling mendukung, dan bekerja sama dengan baik sampai seluruh rangkaian kegiatan selesai. Semoga ke depannya kami bisa semakin akrab, saling membantu ketika ada kesulitan, dan menciptakan banyak kenangan menyenangkan bersama!
+## Harapan Kuliah
+Aku berharap selama kuliah di Teknik Informatika FILKOM UB, aku bisa mengembangkan kemampuan akademik maupun nonakademik, terutama dalam bidang pemrograman dan UI/UX design. Aku juga berharap bisa mendapatkan banyak pengalaman baru, memperluas relasi, serta menjadi pribadi yang lebih mandiri, aktif, dan siap menghadapi dunia kerja.
